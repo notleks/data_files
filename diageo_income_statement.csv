@@ -1,0 +1,72 @@
+﻿income_item,2013,2014,2015,2016,2017,2018
+Revenue,11303.00,10258.00,10813.00,10485.00,12050.00,12163.00
+Other Revenue,,,,,,
+Total Revenue,11303.00,10258.00,10813.00,10485.00,12050.00,12163.00
+Cost Of Goods Sold,4389.00,4006.00,4585.00,4251.00,4680.00,4634.00
+Gross Profit,6914.00,6252.00,6228.00,6234.00,7370.00,7529.00
+Selling General & Admin Exp.,1807.00,1649.00,1642.00,1567.00,1823.00,1893.00
+R & D Exp.,,,,,,
+Depreciation & Amort.,,,,,,
+Other Operating Expense/(Income),1666.00,1498.00,1533.00,1664.00,1971.00,1828.00
+"Other Operating Exp., Total",3473.00,3147.00,3175.00,3231.00,3794.00,3721.00
+Operating Income,3441.00,3105.00,3053.00,3003.00,3576.00,3808.00
+Interest Expense,-653.00,-572.00,-583.00,-550.00,-518.00,-457.00
+Interest and Invest. Income,254.00,224.00,223.00,241.00,224.00,216.00
+Net Interest Exp.,-399.00,-348.00,-360.00,-309.00,-294.00,-241.00
+Income/(Loss) from Affiliates,217.00,252.00,175.00,221.00,309.00,309.00
+Other Non-Operating Inc. (Exp.),-16.00,2.00,-22.00,-12.00,-19.00,-26.00
+EBT Excl. Unusual Items,3243.00,3011.00,2846.00,2903.00,3572.00,3850.00
+Restructuring Charges,,-163.00,,,,
+Merger & Related Restruct. Charges,,,-10.00,,,
+Impairment of Goodwill,,,,-42.00,,-50.00
+Gain (Loss) On Sale Of Invest.,,140.00,204.00,-27.00,,
+Gain (Loss) On Sale Of Assets,-83.00,,247.00,242.00,20.00,
+Asset Writedown,-50.00,-264.00,,-76.00,,-78.00
+Other Unusual Items,-53.00,-13.00,-354.00,-142.00,-33.00,18.00
+EBT Incl. Unusual Items,3057.00,2711.00,2933.00,2858.00,3559.00,3740.00
+Income Tax Expense,507.00,447.00,466.00,496.00,732.00,596.00
+Earnings from Cont. Ops.,2550.00,2264.00,2467.00,2362.00,2827.00,3144.00
+Earnings of Discontinued Ops.,,-83.00,,,-55.00,
+Extraord. Item & Account. Change,,,,,,
+Net Income to Company,2550.00,2181.00,2467.00,2362.00,2772.00,3144.00
+Minority Int. in Earnings,-98.00,67.00,-86.00,-118.00,-110.00,-122.00
+Net Income,2452.00,2248.00,2381.00,2244.00,2662.00,3022.00
+Pref. Dividends and Other Adj.,,,,,,
+NI to Common Incl Extra Items,2452.00,2248.00,2381.00,2244.00,2662.00,3022.00
+NI to Common Excl. Extra Items,2452.00,2331.00,2381.00,2244.00,2717.00,3022.00
+Basic EPS,0.98,0.90,0.95,0.89,1.06,1.22
+Basic EPS Excl. Extra Items,0.98,0.93,0.95,0.89,1.08,1.22
+Weighted Avg. Basic Shares Out.,2502.00,2506.00,2505.00,2508.00,2512.00,2484.00
+Diluted EPS,0.97,0.89,0.95,0.89,1.06,1.21
+Diluted EPS Excl. Extra Items,0.97,0.93,0.95,0.89,1.08,1.21
+Weighted Avg. Diluted Shares Out.,2517.00,2517.00,2517.00,2518.00,2523.00,2495.00
+Normalized Basic EPS,0.77,0.78,0.68,0.68,0.84,0.92
+Normalized Diluted EPS,0.77,0.77,0.67,0.67,0.84,0.92
+Dividends per Share,0.47,0.52,0.56,0.59,0.62,0.65
+Payout Ratio %,0.46,0.55,0.56,0.64,0.57,0.52
+Shares per Depository Receipt,4.00,4.00,4.00,4.00,4.00,4.00
+EBITDA,3766.00,3449.00,3424.00,3358.00,3884.00,4121.00
+EBITA,3441.00,3105.00,3053.00,3003.00,3579.00,3811.00
+EBIT,3441.00,3105.00,3053.00,3003.00,3576.00,3808.00
+EBITDAR,3886.00,3564.00,3540.00,3459.00,4000.00,4229.00
+As Reported Total Revenue,11303.00,10258.00,10813.00,10485.00,12050.00,12163.00
+Effective Tax Rate %,0.17,0.17,0.16,0.17,0.21,0.16
+Current Domestic Taxes,66.00,98.00,75.00,61.00,54.00,202.00
+Current Foreign Taxes,379.00,353.00,366.00,578.00,557.00,501.00
+Total Current Taxes,445.00,451.00,441.00,639.00,611.00,703.00
+Deferred Domestic Taxes,-15.00,-50.00,3.00,34.00,58.00,124.00
+Deferred Foreign Taxes,77.00,46.00,22.00,-177.00,63.00,-231.00
+Total Deferred Taxes,62.00,-4.00,25.00,-143.00,121.00,-107.00
+Normalized Net Income,1928.90,1948.90,1692.80,1696.40,2122.50,2284.30
+Interest Capitalized,2.00,4.00,2.00,,,2.00
+Interest on Long Term Debt,22.00,24.00,19.00,13.00,11.00,11.00
+Non-Cash Pension Expense,27.00,-14.00,7.00,3.00,1.00,-28.00
+Marketing Exp.,1769.00,1620.00,1629.00,1562.00,1798.00,1882.00
+Selling and Marketing Exp.,1769.00,1620.00,1629.00,1562.00,1798.00,1882.00
+R&D Exp.,21.00,24.00,26.00,28.00,33.00,36.00
+Net Rental Exp.,120.00,115.00,116.00,101.00,116.00,108.00
+Imputed Oper. Lease Interest Exp.,65.40,53.40,55.40,43.40,49.00,40.90
+Imputed Oper. Lease Depreciation,54.60,61.60,60.60,57.60,67.00,67.10
+Maintenance & Repair Exp.,88.00,72.00,95.00,91.00,100.00,117.00
+"Stock-Based Comp., Unallocated",46.00,38.00,36.00,28.00,34.00,40.00
+"Stock-Based Comp., Total",46.00,38.00,36.00,28.00,34.00,40.00

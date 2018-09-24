@@ -1,0 +1,33 @@
+﻿segment,segment_item,2013,2014,2015,2016,2017,2018
+North America,Revenues,3723.00,3444.00,3455.00,3565.00,4161.00,4116.00
+Europe and Turkey,Revenues,2915.00,2814.00,2617.00,2544.00,2824.00,2932.00
+Africa,Revenues,1564.00,1430.00,1415.00,1401.00,1556.00,1491.00
+Latin America and Caribbean,Revenues,1453.00,1144.00,1033.00,863.00,1044.00,1069.00
+Asia Pacific,Revenues,1572.00,1347.00,2213.00,2076.00,2419.00,2503.00
+International Supply Centre (ISC),Revenues,2648.00,1504.00,1381.00,1355.00,1390.00,1457.00
+Eliminate Inter-Segment Sales,Revenues,,,-1381.00,-1355.00,-1390.00,-1457.00
+Corporate and Other,Revenues,-2572.00,-1425.00,80.00,36.00,46.00,52.00
+Total Revenues,Revenues,11303.00,10258.00,10813.00,10485.00,12050.00,12163.00
+North America,Operating Profit Before Tax,1478.00,1460.00,1448.00,1551.00,1899.00,1882.00
+Europe and Turkey,Operating Profit Before Tax,903.00,853.00,804.00,801.00,936.00,1028.00
+Africa,Operating Profit Before Tax,400.00,340.00,318.00,212.00,218.00,191.00
+Latin America and Caribbean,Operating Profit Before Tax,468.00,328.00,263.00,199.00,250.00,308.00
+Asia Pacific,Operating Profit Before Tax,381.00,283.00,356.00,395.00,487.00,568.00
+Corporate and Other,Operating Profit Before Tax,-151.00,-130.00,-123.00,-150.00,-189.00,-158.00
+Total Operating Profit Before Tax,Operating Profit Before Tax,3479.00,3134.00,3066.00,3008.00,3601.00,3819.00
+North America,Depreciation & Amortization,37.00,40.00,38.00,39.00,41.00,44.00
+Europe and Turkey,Depreciation & Amortization,25.00,24.00,24.00,21.00,21.00,20.00
+Africa,Depreciation & Amortization,92.00,92.00,93.00,83.00,77.00,77.00
+Latin America and Caribbean,Depreciation & Amortization,13.00,12.00,15.00,10.00,7.00,7.00
+Asia Pacific,Depreciation & Amortization,20.00,19.00,37.00,35.00,42.00,42.00
+International Supply Centre (ISC),Depreciation & Amortization,89.00,100.00,102.00,106.00,107.00,110.00
+Corporate and Other,Depreciation & Amortization,49.00,57.00,62.00,61.00,66.00,68.00
+Total Depreciation & Amortization,Depreciation & Amortization,325.00,344.00,371.00,355.00,361.00,368.00
+North America,Capital Expenditure,-76.00,-65.00,-95.00,-105.00,-112.00,-132.00
+Europe and Turkey,Capital Expenditure,-22.00,-28.00,-34.00,-29.00,-27.00,-22.00
+Africa,Capital Expenditure,-183.00,-154.00,-140.00,-107.00,-126.00,-163.00
+Latin America and Caribbean,Capital Expenditure,-20.00,-39.00,-53.00,-20.00,-34.00,-44.00
+Asia Pacific,Capital Expenditure,-42.00,-25.00,-42.00,-52.00,-48.00,-44.00
+International Supply Centre (ISC),Capital Expenditure,-226.00,-280.00,-233.00,-150.00,-125.00,-131.00
+Corporate and Other,Capital Expenditure,-67.00,-51.00,-41.00,-43.00,-46.00,-48.00
+Total Capital Expenditure,Capital Expenditure,-636.00,-642.00,-638.00,-506.00,-518.00,-584.00

@@ -1,0 +1,709 @@
+﻿parent1,parent_change1,parent2,parent_change2,parent3,parent_change3,parent4,parent_change4,child,child_change,rationale
+CPI,up_strong,,,,,,,IR,up_mild,High inflation despite no change in GDP is not too much of a concern and would prompt the central banks to raise their interest rates
+CPI,up_strong,GDP,up_strong,,,,,IR,up_strong,High inflation with strong GDP growth signifies a boom which  prompts central banks to raise their interest rates
+CPI,up_strong,GDP,up_mild,,,,,IR,up_mild,High inflation with mild GDP growth signifies a growing economy and prompts central banks to raise their interest rates
+CPI,up_strong,GDP,down_mild,,,,,IR,up_mild,High inflation despite a mild GDP dip is not too much of a concern and would prompt the central banks to raise their interest rates
+CPI,up_strong,GDP,down_strong,,,,,IR,down_mild,"High inflation with a strong decrease in GDP is uncharacteristic but signifies troubled waters, which prompts an interest rate cut and possibly other policy levels to boos the economy"
+CPI,up_mild,,,,,,,IR,none,"Interest rate outlook may be to raise but currently no action, inflation is not strong enough to warrant any immediate action"
+CPI,up_mild,GDP,up_strong,,,,,IR,up_mild,Inflation with strong GDP growth signifies a boom which  prompts central banks to raise their interest rates
+CPI,up_mild,GDP,up_mild,,,,,IR,none,"Interest rate outlook may be to raise but currently no action, since neither inflation or GDP growth is strong enough to warrant any immediate action"
+CPI,up_mild,GDP,down_mild,,,,,IR,none,Direction of inflation and GDP are odds with expectation. Monetary Policy Committee (MPC) would be closely watching the situation to undertake appropriate action in the future
+CPI,up_mild,GDP,down_strong,,,,,IR,down_mild,GDP decrease supersedes the mild inflation and would warrant a loose monetary policy through lowering interest rates
+CPI,down_mild,,,,,,,IR,none,Mild deflationary pressure indicate that MPC would want to closely monitor situation to decide on looser monetary policy in the future
+CPI,down_mild,GDP,up_strong,,,,,IR,none,Mild deflationary pressure with a strong increase in GDP is not very common. Something for the MPC to think about
+CPI,down_mild,GDP,up_mild,,,,,IR,none,Typically for small deviations of these variables no immediate action is necessary but closer watch may be required given the counterintuitive directions
+CPI,down_mild,GDP,down_mild,,,,,IR,none,Mild deflationary pressure and mild drop in GDP levels indicate that MPC would want to closely watch the directions of these variables to decide on looser monetary policy in the future
+CPI,down_mild,GDP,down_strong,,,,,IR,down_mild,Deflationary pressures combined with strong drop in GDP levels warrant looser monetary policy
+CPI,down_strong,,,,,,,IR,down_strong,Strong deflationary pressures signal the need to reduce the interest rates
+CPI,down_strong,GDP,up_strong,,,,,IR,none,"This is extemely rare, can't think of a reason why this would happen. Would certainly puzzle the MPC and would warrant an closer inspection of the rest of the economy"
+CPI,down_strong,GDP,up_mild,,,,,IR,none,Relatively rare situation but could be due to an exogenous shock; no immediate action warranted
+CPI,down_strong,GDP,down_mild,,,,,IR,down_mild,Strong deflationary pressures combined with indication of lower GDP levels signal the need to reduce the interest rates
+CPI,down_strong,GDP,down_strong,,,,,IR,down_strong,"Textbook case of strong deflationary pressures with a substantial decrease in GDP, typically associated with troughs in business cycles. Warrants a loose monetary policy and other unconventional tools (in case of crisis)"
+IR,up_strong,,,,,,,BY,up_strong,"When the interest rate goes up, the bond holders demand a higher yield/return to hold the bonds, otherwise they are better off parking their cash as bank deposits"
+IR,up_mild,,,,,,,BY,up_mild,"When the interest rate goes up, the bond holders demand a higher yield/return to hold the bonds, otherwise they are better off parking their cash as bank deposits"
+IR,down_mild,,,,,,,BY,down_mild,"When the interest rate goes down, the bond holders would be happy with a lower yield/return on their bonds, as the bank savings rate are low anyway"
+IR,down_strong,,,,,,,BY,down_strong,"When the interest rate goes down, the bond holders would be happy with a lower yield/return on their bonds, as the bank savings rate are low anyway"
+IR,up_strong,,,,,,,SP,down_strong,"When the interest rate goes up, the stock prices typically go down because their valuation is affected by the discount rates/interest rates. Also, future cash flows may be lower because it is more expensive for companies to borrow and invest in their projects"
+IR,up_mild,,,,,,,SP,down_mild,"When the interest rate goes up, the stock prices typically go down because their valuation is affected by the discount rates/interest rates. Also, future cash flows may be lower because it is more expensive for companies to borrow and invest in their projects"
+IR,down_mild,,,,,,,SP,up_mild,"When the interest rate goes down, the stock prices typically go up because their valuation is affected by the discount rates/interest rates. Also, future cash flows may be higher because it is now cheaper for companies to borrow and invest in their projects"
+IR,down_strong,,,,,,,SP,up_strong,"When the interest rate goes down, the stock prices typically go up because their valuation is affected by the discount rates/interest rates. Also, future cash flows may be higher because it is now cheaper for companies to borrow and invest in their projects"
+IR,up_strong,,,,,,,ER,up_strong,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,up_strong,CPI,up_strong,,,,,ER,none,"If the real interest rate, which is the interest rate adjusted for inflation (nominal interest rate - inflation) is unchanged from before, there would be no notable change in exchange rates"
+IR,up_strong,CPI,up_mild,,,,,ER,up_mild,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,up_strong,CPI,down_mild,,,,,ER,up_strong,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,up_strong,CPI,down_strong,,,,,ER,up_strong,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,up_mild,,,,,,,ER,up_mild,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,up_mild,CPI,up_strong,,,,,ER,down_mild,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,up_mild,CPI,up_mild,,,,,ER,none,"If the real interest rate, which is the interest rate adjusted for inflation (nominal interest rate - inflation) is unchanged from before, there would be no notable change in exchange rates"
+IR,up_mild,CPI,down_mild,,,,,ER,up_strong,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,up_mild,CPI,down_strong,,,,,ER,up_strong,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,down_mild,,,,,,,ER,down_mild,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,down_mild,CPI,up_strong,,,,,ER,down_strong,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,down_mild,CPI,up_mild,,,,,ER,down_strong,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,down_mild,CPI,down_mild,,,,,ER,none,"If the real interest rate, which is the interest rate adjusted for inflation (nominal interest rate - inflation) is unchanged from before, there would be no notable change in exchange rates"
+IR,down_mild,CPI,down_strong,,,,,ER,up_mild,"The real interest rate is higher than before, which attracts foreign investments to the country, therefore leading to an appreciation of the exchange rates (ceteris paribus)"
+IR,down_strong,,,,,,,ER,down_strong,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,down_strong,CPI,up_strong,,,,,ER,down_strong,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,down_strong,CPI,up_mild,,,,,ER,down_strong,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,down_strong,CPI,down_mild,,,,,ER,down_mild,"The real interest rate is lower than before, which leads to more outflows from the country to abroad. This results in a depreciation of the exchange rates resulting from a local currency sell-off (ceteris paribus)"
+IR,down_strong,CPI,down_strong,,,,,ER,none,"If the real interest rate, which is the interest rate adjusted for inflation (nominal interest rate - inflation) is unchanged from before, there would be no notable change in exchange rates"
+GDP,up_strong,,,,,,,TAX,up_mild,"When the economy is booming, it is common to increase the tax rates as a fiscal measure to prevent overheating of the economy"
+GDP,up_mild,,,,,,,TAX,none,"When the economy is in the early boom phases, tax rates are not adjusted immediately to avoid staving off consumer spending too early"
+GDP,down_mild,,,,,,,TAX,none,"When the economy is in the early recession phases, tax rates are not adjusted immediately as other fiscal and monetary tools are first deployed. Tax rates have political implications too!"
+GDP,down_strong,,,,,,,TAX,down_mild,"When the economy is an recession, it is common to reduce tax rates(or through tax credits) to incentivize more consumer spending and help the economy recover"
+GDP,up_strong,,,,,,,G,down_strong,"When the economy is booming, the government reduces its spending to prevent fuelling hyperinflation"
+GDP,up_mild,,,,,,,G,down_mild,"When the economy is the early boom phases, the government reduces its spending to prevent bubbles from forming in the economy"
+GDP,down_mild,,,,,,,G,up_mild,"When the economy is in the early recession phases, the government would increase its spending to try and push aggregate demand and therefore prevent deep recessions"
+GDP,down_strong,,,,,,,G,up_strong,"When the economy is an recession, the government would significantly increase their spending to help the economy recover from the recession"
+GDP,up_strong,,,,,,,UR,down_strong,"When the country's economy is doing very well, it also means that the unemployment rate is close the the Natural Rate of Unemployment (NRU) levels"
+GDP,up_mild,,,,,,,UR,down_mild,"When the country's economy is doing  well, the unemployment rates are typically low and this contributes to the growth of the economy"
+GDP,down_mild,,,,,,,UR,up_mild,"When the country's economy is in the start of a downturn, it typically denotes the onset of a trough in the business cycle when the unemployment rate is high"
+GDP,down_strong,,,,,,,UR,up_strong,"When the country is in a fully blown recession, there are large layoffs leading to lack of employment opportunities therby driving the unemployment levels to a local maximum/peak"
+TAX,up_strong,,,,,,,I,down_strong,"When the tax rates are very high, consumers do not have disposable income to invest"
+TAX,up_mild,,,,,,,I,down_mild,"When the tax rates are high, consumers do not have a lot of disposable income to invest"
+TAX,down_mild,,,,,,,I,up_mild,"When the tax rates are low, consumers have disposable income to invest in the economy"
+TAX,down_strong,,,,,,,I,up_strong,"When the tax rates are very low, consumers have a lot of disposable income to invest in the economy"
+TAX,up_strong,,,,,,,C,down_strong,"When the tax rates are very high, consumers do not have disposable income and only consume the esssentials"
+TAX,up_mild,,,,,,,C,down_mild,"When the tax rates are high, consumers do not have a lot of disposable income and therefore consume less"
+TAX,down_mild,,,,,,,C,up_mild,"When the tax rates are low, consumers have disposable income and therefore increase their consumption to more than just essentials"
+TAX,down_strong,,,,,,,C,up_mild,"When the tax rates are very low, consumers have a lot of disposable income and therefore consume more by purchasing luxury goods"
+ER,up_strong,,,,,,,NX,down_strong,"When the exchange rates are very strong, it becomes more expensive for other countries to purchase goods from this country, therefore driving the demand for exports down. When the exchange rates are very strong it becomes very cheap for this country to purchase goods from other countries, therefore driving the imports up"
+ER,up_mild,,,,,,,NX,down_mild,"When the exchange rates are stronger, it becomes more expensive for other countries to purchase goods from this country, therefore driving the demand for exports down. However, it would be slow to materialize if the contracts are long-term and the appreciation of exchange rates are mild which would not warrant renegotiations on price. When the exchange rates are strong it becomes very cheap for this country to purchase goods from other countries, therefore driving the imports up. However, it would be slow to materialize if the contracts are long-term"
+ER,down_mild,,,,,,,NX,up_mild,"When the exchange rates are weaker, it becomes more expensive for other countries to purchase goods from this country, therefore driving the demand for exports down. However, it would be slow to materialize if the contracts are long-term. When the exchange rates are very weak it becomes very expensive for this country to purchase goods from other countries, therefore driving the imports down. However, it would be slow to materialize if the contracts are long-term and the depreciation of exchange rates are mild which would not warrant renegotiations on price"
+ER,down_strong,,,,,,,NX,up_strong,"When the exchange rates are very weak, it becomes very cheap for other countries to purchase goods from this country, therefore driving the demand for exports up. When the exchange rates are very weak it becomes very expensive for this country to purchase goods from other countries, therefore driving the imports down"
+UR,up_strong,,,,,,,C,down_strong,"Typically when unemployment rate goes down, the consumer consumption decreases due to lower purchasing power in aggregate terms"
+UR,up_mild,,,,,,,C,down_mild,"Typically when unemployment rate goes down, the consumer consumption decreases due to lower purchasing power in aggregate terms. However, for mild changes other forces may also come in to play that may affect the consumption levels"
+UR,down_mild,,,,,,,C,up_mild,"Typically when unemployment rate goes up the consumer consumption increase due to higher purchasing power in aggregate terms. However, for mild changes other forces may also come in to play that may affect the consumption levels"
+UR,down_strong,,,,,,,C,up_strong,Typically when unemployment rate goes up the consumer consumption increase due to higher purchasing power in aggregate terms
+SP,down_strong,GDP,down_strong,,,,,BY,up_strong,"This is a special case when the economy is in a recession and the stock markets are underperforming. There will be a behavioural phenomenon called the ""flight to quality"" effect, where investors rush to invest in very safe assets such as government bonds and therefore drive the bond prices very high due to increased demand. As a result, the govenment bond yields will drop (recall: bond yields and bond prices are inversely related), but corporate bond yields will do the opposite."
+SP,up_strong,GDP,up_strong,,,,,ER,up_strong,"This is also a behavioural effect due to herding and/or optimism. When the stock prices rally and the country is doing very well, foreign investors may be tempted to invest in the stock markets of the country. As a result, the local exchange rates would appreciate due to an increase in demand for the local currency"
+SP,down_strong,BY,up_strong,,,,,GDP,down_strong,"This is a special case when there is low confidence about a country's economy. The increased risk perception drives up the bond yields and the lower confidence turns away investors in the stock market, driving stock prices low"
+CPI,up_strong,GDP,down_strong,,,,,UR,up_strong,This is a classic case of stagflation (or stagnant inflation) where the economic growth rate slows down but there is very high inflation. It is also characterized by very high unemployment rates. This is caused by a negative shock to aggregate supply and Keynsian policies fail during these situations
+GDP,up_strong,,,,,,,CPI,up_strong,"When  aggregate demand (consumption by consumers, government spending, private investment, net exports) goes up, it drives the demand for products and services up. Assuming constant supply, this should lead to inflationary pressures"
+GDP,up_mild,,,,,,,CPI,up_mild,"When  aggregate demand (consumption by consumers, government spending, private investment, net exports) goes up, it drives the demand for products and services up. Assuming constant supply, this should lead to inflationary pressures"
+GDP,down_mild,,,,,,,CPI,down_mild,"When  aggregate demand (consumption by consumers, government spending, private investment, net exports) goes down, it drives the demand for products and services down. Assuming constant supply, this should lead to deflationary pressures"
+GDP,down_strong,,,,,,,CPI,down_strong,"When  aggregate demand (consumption by consumers, government spending, private investment, net exports) goes down, it drives the demand for products and services down. Assuming constant supply, this should lead to deflationary pressures"
+C,up_strong,,,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,,,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,,,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,,,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,,,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,,,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,,,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,,,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_strong,,,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_mild,,,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_mild,,,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_strong,,,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+NX,up_strong,,,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+NX,up_mild,,,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+NX,down_mild,,,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+NX,down_strong,,,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_strong,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_mild,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_strong,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_strong,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_mild,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_strong,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,NX,up_strong,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,NX,up_mild,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,NX,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,NX,down_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,NX,up_strong,,,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,NX,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,NX,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,NX,down_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,NX,up_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,NX,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,NX,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,NX,down_strong,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,NX,up_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,NX,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,NX,down_mild,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,NX,down_strong,,,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_mild,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_mild,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,NX,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,NX,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,NX,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,NX,down_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,NX,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,NX,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,NX,down_mild,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,NX,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,NX,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,NX,up_mild,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,NX,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,NX,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,NX,up_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,NX,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,NX,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,NX,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_strong,NX,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_strong,NX,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_strong,NX,down_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_strong,NX,down_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_mild,NX,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_mild,NX,up_mild,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_mild,NX,down_mild,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,up_mild,NX,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_mild,NX,up_strong,,,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_mild,NX,up_mild,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_mild,NX,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_mild,NX,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_strong,NX,up_strong,,,,,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_strong,NX,up_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_strong,NX,down_mild,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+I,down_strong,NX,down_strong,,,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,NX,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,NX,down_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,NX,down_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,NX,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,NX,down_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,NX,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,NX,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,NX,up_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,NX,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,NX,up_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,NX,up_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,NX,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_strong,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_strong,NX,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_strong,NX,down_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_strong,NX,down_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_mild,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_mild,NX,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_mild,NX,down_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,up_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_mild,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_mild,NX,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_strong,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,I,down_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,up_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,I,down_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,up_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,I,down_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_strong,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_mild,NX,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,up_mild,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_mild,NX,up_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_mild,NX,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_mild,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_strong,NX,up_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_strong,NX,up_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_strong,NX,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,I,down_strong,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_strong,NX,up_strong,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_strong,NX,up_mild,,,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,up_mild,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_strong,I,down_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_strong,NX,down_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_mild,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,up_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,up_mild,I,down_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_strong,NX,down_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_mild,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,up_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_mild,I,down_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_strong,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_strong,NX,up_mild,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_strong,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_strong,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_mild,NX,up_strong,,,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,up_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_mild,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_mild,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_mild,NX,down_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_mild,NX,down_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_strong,NX,up_strong,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_strong,NX,up_mild,,,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_strong,NX,down_mild,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+G,down_strong,I,down_strong,NX,down_strong,,,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_strong,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_strong,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_strong,NX,down_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_strong,NX,down_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_mild,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_mild,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_mild,NX,down_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,up_mild,NX,down_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_mild,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_mild,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_mild,NX,down_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_strong,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_strong,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_strong,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_strong,I,down_strong,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_strong,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_strong,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_strong,NX,down_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_strong,NX,down_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_mild,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_mild,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_mild,NX,down_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,up_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_mild,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_mild,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_strong,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_strong,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,up_mild,I,down_strong,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_strong,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_strong,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_strong,NX,down_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_strong,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_mild,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_mild,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,up_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_mild,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_strong,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_mild,I,down_strong,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_strong,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_strong,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_strong,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_strong,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_mild,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,up_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_strong,G,down_strong,I,down_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_strong,NX,up_strong,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_strong,NX,up_mild,GDP,up_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_strong,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_strong,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,up_mild,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_strong,I,down_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_strong,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_strong,NX,down_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_mild,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,up_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,up_mild,I,down_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_strong,NX,down_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_mild,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,up_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_mild,I,down_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_mild,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,up_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,up_mild,G,down_strong,I,down_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_strong,NX,up_strong,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_strong,NX,up_mild,GDP,up_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,up_mild,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_strong,I,down_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_strong,NX,down_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_mild,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,up_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_strong,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,up_mild,I,down_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_strong,NX,down_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_mild,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,up_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_strong,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_strong,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_mild,I,down_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_mild,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,up_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_strong,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_strong,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_strong,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_mild,G,down_strong,I,down_strong,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_strong,NX,up_strong,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_strong,NX,up_mild,GDP,none,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,up_mild,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_mild,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_strong,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_strong,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_strong,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_strong,I,down_strong,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_strong,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_strong,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_strong,NX,down_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_mild,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,up_mild,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_mild,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_mild,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_strong,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_strong,NX,up_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_strong,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,up_mild,I,down_strong,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_strong,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_strong,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_strong,NX,down_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_strong,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_mild,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_mild,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,up_mild,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_mild,NX,up_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_mild,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_mild,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_strong,NX,up_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_strong,NX,up_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_strong,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_mild,I,down_strong,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_strong,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_strong,NX,up_mild,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_strong,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_strong,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_mild,NX,up_strong,GDP,down_mild,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_mild,NX,up_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_mild,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,up_mild,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_mild,NX,up_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_mild,NX,up_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_mild,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_mild,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_strong,NX,up_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_strong,NX,up_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_strong,NX,down_mild,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
+C,down_strong,G,down_strong,I,down_strong,NX,down_strong,GDP,down_strong,From Keynesian aggregate demand equation: GDP  = C + I + G + NX
