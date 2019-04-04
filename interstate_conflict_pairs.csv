@@ -1,0 +1,108 @@
+﻿Scenario ID,Bilateral Conflict Scenario,Country 1,Country 2,Conflict Level
+IC001,Sudan - South Sudan,SDN,SSD,Level 1 Minor-Minor
+IC002,Kenya - Somalia,KEN,SOM,Level 1 Minor-Minor
+IC003,Western Sahara - Morocco,ESH,MAR,Level 1 Minor-Minor
+IC004,Ethiopia - Somalia,ETH,SOM,Level 1 Minor-Minor
+IC005,Armenia - Azerbijian,ARM,AZE,Level 1 Minor-Minor
+IC006,Ethiopia - Eritrea,ETH,ERI,Level 1 Minor-Minor
+IC007,Rwanda - Uganda,RWA,UGA,Level 1 Minor-Minor
+IC008,"Rwanda - Congo, Democratic Repubic",RWA,COD,Level 1 Minor-Minor
+IC009,"Angola - Congo, Democratic Repubic",AGO,COD,Level 1 Minor-Minor
+IC010,Algeria - Morocco,DZA,MAR,Level 1 Minor-Minor
+IC011,Angola - Congo,AGO,COG,Level 1 Minor-Minor
+IC012,Kuwait - Iraq,KWT,IRQ,Level 1 Minor-Minor
+IC013,Bosnia and Herzegovina - Serbia,BIH,SRB,Level 1 Minor-Minor
+IC014,Bosnia and Herzegovina - Croatia,BIH,HRV,Level 1 Minor-Minor
+IC015,"Central African Republic - Congo, Democratic Repubic",CAF,COD,Level 1 Minor-Minor
+IC016,Côte d'Ivoire - Liberia,CIV,LBR,Level 1 Minor-Minor
+IC017,Libya - Mali,LBY,MLI,Level 1 Minor-Minor
+IC018,Niger - Algeria,NER,DZA,Level 1 Minor-Minor
+IC019,Ecuador - Peru,ECU,PER,Level 1 Minor-Minor
+IC020,Western Sahara - Libya,ESH,LBY,Level 1 Minor-Minor
+IC051,Egypt - Palestinian Territories,EGY,PSE,Level 2 Medium/Major-Minor
+IC021,Israel - Lebanon,ISR,LBN,Level 2 Medium-Minor
+IC022,Israel - Palestinian Territories,ISR,PSE,Level 2 Medium-Minor
+IC023,"Iran, Islamic Republic of - Iraq",IRN,IRQ,Level 2 Medium-Minor
+IC024,United Kingdom - Iraq,GBR,IRQ,Level 2 Medium-Minor
+IC025,France - Central African Republic,FRA,CAF,Level 2 Medium-Minor
+IC026,France - Mali,FRA,MLI,Level 2 Medium-Minor
+IC027,Egypt - Libya,EGY,LBY,Level 2 Medium-Minor
+IC028,Saudi Arabia - Iraq,SAU,IRQ,Level 2 Medium-Minor
+IC029,Pakistan - Afghanistan,PAK,AFG,Level 2 Medium-Minor
+IC030,Syrian Arab Republic - Lebanon,SYR,LBN,Level 2 Medium-Minor
+IC031,United Kingdom - Afghanistan,GBR,AFG,Level 2 Medium-Minor
+IC032,"Iran, Islamic Republic of - Afghanistan",IRN,AFG,Level 2 Medium-Minor
+IC033,Syrian Arab Republic - Iraq,SYR,IRQ,Level 2 Medium-Minor
+IC034,Saudi Arabia - Yemen,SAU,YEM,Level 2 Medium-Minor
+IC035,United Kingdom - Libya,GBR,LBY,Level 2 Medium-Minor
+IC036,France - Libya,FRA,LBY,Level 2 Medium-Minor
+IC037,Egypt - Sudan,EGY,SDN,Level 2 Medium-Minor
+IC038,Egypt - Ethiopia,EGY,ETH,Level 2 Medium-Minor
+IC039,Saudi Arabia - Lebanon,SAU,LBN,Level 2 Medium-Minor
+IC040,France - Chad,FRA,TCD,Level 2 Medium-Minor
+IC041,United Kingdom - Somalia,GBR,SOM,Level 2 Medium-Minor
+IC042,United Kingdom - Yemen,GBR,YEM,Level 2 Medium-Minor
+IC043,Saudi Arabia - Afghanistan,SAU,AFG,Level 2 Medium-Minor
+IC044,"Iran, Islamic Republic of - Yemen",IRN,YEM,Level 2 Medium-Minor
+IC045,Nigeria - Mali,NGA,MLI,Level 2 Medium-Minor
+IC046,Pakistan - Bangladesh,PAK,BGD,Level 2 Medium-Minor
+IC047,"France - Congo, Democratic Repubic",FRA,COD,Level 2 Medium-Minor
+IC048,Ukraine - Belarus,UKR,BLR,Level 2 Medium-Minor
+IC049,France - Algeria,FRA,DZA,Level 2 Medium-Minor
+IC050,United Kingdom - Argentina,GBR,ARG,Level 2 Medium-Minor
+IC052,Nigeria - Cameroon,NGA,CMR,Level 2 Medium-Minor
+IC053,France - Rwanda,FRA,RWA,Level 2 Medium-Minor
+IC054,France - Yemen,FRA,YEM,Level 2 Medium-Minor
+IC055,Saudi Arabia - Qatar,SAU,QAT,Level 2 Medium-Minor
+IC070,"Korea, Republic of - Korea, Democratic People's Republic of",KOR,PRK,Level 2 Medium-Minor
+IC056,Syrian Arab Republic - Turkey,SYR,TUR,Level 3 Medium-Medium
+IC057,Iraq - Turkey,IRQ,TUR,Level 3 Medium-Medium
+IC058,Egypt - Israel,EGY,ISR,Level 3 Medium-Medium
+IC059,India - Pakistan,IND,PAK,Level 3 Medium-Medium
+IC060,"Iran, Islamic Republic of - Saudi Arabia",IRN,SAU,Level 3 Medium-Medium
+IC061,Saudi Arabia - Syrian Arab Republic,SAU,SYR,Level 3 Medium-Medium
+IC062,United Kingdom - Pakistan,GBR,PAK,Level 3 Medium-Medium
+IC063,United Kingdom - Nigeria,GBR,NGA,Level 3 Medium-Medium
+IC064,"Iran, Islamic Republic of - Israel",IRN,ISR,Level 3 Medium-Medium
+IC065,"United Kingdom - Iran, Islamic Republic of",GBR,IRN,Level 3 Medium-Medium
+IC066,United Kingdom - Syrian Arab Republic,GBR,SYR,Level 3 Medium-Medium
+IC067,Saudi Arabia - Turkey,SAU,TUR,Level 3 Medium-Medium
+IC068,Egypt - Syrian Arab Republic,EGY,SYR,Level 3 Medium-Medium
+IC069,Egypt - Saudi Arabia,EGY,SAU,Level 3 Medium-Medium
+IC071,United States - Iraq,USA,IRQ,Level 4 Superpower-Minor
+IC072,United States - Afghanistan,USA,AFG,Level 4 Superpower-Minor
+IC073,United States - Libya,USA,LBY,Level 4 Superpower-Minor
+IC074,United States - Yemen,USA,YEM,Level 4 Superpower-Minor
+IC075,United States - Central African Republic,USA,CAF,Level 4 Superpower-Minor
+IC076,Russian Federation - Georgia,RUS,GEO,Level 4 Superpower-Minor
+IC077,United States - Somalia,USA,SOM,Level 4 Superpower-Minor
+IC078,China - Philippines,CHN,PHL,Level 4 Superpower-Minor
+IC079,United States - Western Sahara,USA,ESH,Level 4 Superpower-Minor
+IC080,China - Myanmar,CHN,MMR,Level 4 Superpower-Minor
+IC081,China - Laos,CHN,LAO,Level 4 Superpower-Minor
+IC082,China - Cambodia,CHN,KHM,Level 4 Superpower-Minor
+IC083,Russian Federation - Belarus,RUS,BLR,Level 4 Superpower-Minor
+IC084,Russian Federation - Lebanon,RUS,LBN,Level 4 Superpower-Minor
+IC085,Russian Federation - Estonia,RUS,EST,Level 4 Superpower-Minor
+IC086,Russian Federation - Latvia,RUS,LVA,Level 4 Superpower-Minor
+IC087,United States - Sudan,USA,SDN,Level 4 Superpower-Minor
+IC088,United States - Lebanon,USA,LBN,Level 4 Superpower-Minor
+IC089,Russian Federation - Uzbekistan,RUS,UZB,Level 4 Superpower-Minor
+IC090,Russian Federation - Kazakhstan,RUS,KAZ,Level 4 Superpower-Minor
+IC091,Russian Federation - Yemen,RUS,YEM,Level 4 Superpower-Minor
+IC092,Russian Federation - Finland,RUS,FIN,Level 4 Superpower-Minor
+IC097,Russian Federation - Turkey,RUS,TUR,Level 4 Superpower-Minor
+IC105,"United States - Korea, Democratic People's Republic of",USA,PRK,Level 4 Superpower-Minor
+IC106,"China - Korea, Democratic People's Republic of",CHN,PRK,Level 4 Superpower-Minor
+IC093,United States - Syria,USA,SYR,Level 5 Superpower-Medium/Major
+IC094,Russian Federation - Syria,RUS,SYR,Level 5 Superpower-Medium/Major
+IC095,Russian Federation - Ukraine,RUS,UKR,Level 5 Superpower-Medium/Major
+IC096,United States - Iran,USA,IRN,Level 5 Superpower-Medium/Major
+IC098,United States - Pakistan,USA,PAK,Level 5 Superpower-Medium/Major
+IC099,China - Vietnam,CHN,VNM,Level 5 Superpower-Medium/Major
+IC100,China - Taiwan,CHN,TWN,Level 5 Superpower-Medium/Major
+IC101,China - Japan,CHN,JPN,Level 5 Superpower-Medium/Major
+IC102,United States - Ukraine,USA,UKR,Level 5 Superpower-Medium/Major
+IC103,China - India,CHN,IND,Level 5 Superpower-Medium/Major
+IC104,United States - Egypt,USA,EGY,Level 5 Superpower-Medium/Major
+IC107,United States - Saudi Arabia,USA,SAU,Level 5 Superpower-Medium/Major
