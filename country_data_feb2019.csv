@@ -1,0 +1,192 @@
+﻿country,iso3,wb_region,wb_income_group,un_ocha_region,ec_echo_region,un_geographical_region,un_geographical_subregion,gdp2017_usd_current_prices,inflation_5yr_mean_consumer_prices_pct,moodys_rating,default_spread,equity_risk_premium,country_risk_premium
+Afghanistan,AFG,South Asia,Low income,ROMENA,South Asia,Asia,Southern Asia,19543976895,4.151580423,#N/A,#N/A,#N/A,#N/A
+Albania,ALB,Europe & Central Asia,Upper middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Southern Europe,13038538300,1.743511342,B1,0.050795714,0.122082584,0.062482584
+Algeria,DZA,Middle East & North Africa,Upper middle income,ROMENA,Middle East & North Africa,Africa,Northern Africa,1.68E+11,4.58888475,0,0.062094961,0.135981516,0.076381516
+Angola,AGO,Sub-Saharan Africa,Upper middle income,ROSA,Sub-Saharan Africa,Africa,Middle Africa,1.22E+11,18.08113357,B3,0.073394209,0.149880447,0.090280447
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income: nonOECD,ROLAC,Central America & Caribbean,Americas,Caribbean,1510084751,1.01219659,#N/A,#N/A,#N/A,#N/A
+Argentina,ARG,Latin America & Caribbean,Upper middle income,ROLAC,Latin America,Americas,South America,6.37E+11,#DIV/0!,B2,0.062094961,0.135981516,0.076381516
+Armenia,ARM,Europe & Central Asia,Lower middle income,ROCCA,Caucasus & EU's Eastern Neighbourhood,Asia,Western Asia,11536590636,2.413722675,B1,0.050795714,0.122082584,0.062482584
+Australia,AUS,East Asia & Pacific,High income: OECD,ROAP,East Asia & Pacific,Oceania,Australia and New Zealand,1.32E+12,1.934363285,Aaa,0,0.0596,0
+Austria,AUT,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Western Europe,4.17E+11,1.495077865,Aa1,0.004478981,0.065109486,0.005509486
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,ROCCA,Caucasus & EU's Eastern Neighbourhood,Asia,Western Asia,40747792238,6.634484248,Ba2,0.033897741,0.101296795,0.041696795
+Bahamas,BHS,Latin America & Caribbean,High income: nonOECD,ROLAC,Central America & Caribbean,Americas,Caribbean,12162100000,1.053901584,Baa3,0.024837985,0.090152606,0.030552606
+Bahrain,BHR,Middle East & North Africa,High income: nonOECD,ROMENA,Middle East & North Africa,Asia,Western Asia,35307127660,2.394951187,B2,0.062094961,0.135981516,0.076381516
+Bangladesh,BGD,South Asia,Low income,ROAP,South Asia,Asia,Southern Asia,2.50E+11,6.386384943,Ba3,0.040616212,0.109561024,0.049961024
+Barbados,BRB,Latin America & Caribbean,High income: nonOECD,ROLAC,Central America & Caribbean,Americas,Caribbean,4673500000,1.682586085,Caa3,0.112788881,0.198338884,0.138738884
+Belarus,BLR,Europe & Central Asia,Upper middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Eastern Europe,54456465473,13.56694463,B3,0.073394209,0.149880447,0.090280447
+Belgium,BEL,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Western Europe,4.93E+11,1.222870287,Aa3,0.006820266,0.067989445,0.008389445
+Belize,BLZ,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Central America,1862614800,#DIV/0!,B3,0.073394209,0.149880447,0.090280447
+Benin,BEN,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,9246696924,-0.12232885,B1,0.050795714,0.122082584,0.062482584
+Bhutan,BTN,South Asia,Lower middle income,ROAP,South Asia,Asia,Southern Asia,2528007911,5.598848069,#N/A,#N/A,#N/A,#N/A
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,ROLAC,Central America & Caribbean,Americas,South America,37508642113,4.401634199,Ba3,0.040616212,0.109561024,0.049961024
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Southern Europe,18054854789,-0.386768493,B3,0.073394209,0.149880447,0.090280447
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,ROSA,Sub-Saharan Africa,Africa,Southern Africa,17406565823,3.894426108,A2,0.009568732,0.071370266,0.011770266
+Brazil,BRA,Latin America & Caribbean,Upper middle income,ROLAC,Latin America,Americas,South America,2.06E+12,6.749758299,Ba2,0.033897741,0.101296795,0.041696795
+Brunei Darussalam,BRN,East Asia & Pacific,High income: nonOECD,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,12128089002,-0.22868117,0,0.007940011,0.069366817,0.009766817
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,CRD,Europe EU,Europe,Eastern Europe,58220973783,0.12657649,Baa2,0.021478749,0.086020491,0.026420491
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,12322864245,0.270785043,B2,0.062094961,0.135981516,0.076381516
+Burundi,BDI,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,3172416146,7.899644849,#N/A,#N/A,#N/A,#N/A
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,1772706451,0.154884641,B2,0.062094961,0.135981516,0.076381516
+Cambodia,KHM,East Asia & Pacific,Low income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,22158209503,2.791089621,B2,0.062094961,0.135981516,0.076381516
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,34922782311,1.619216106,B2,0.062094961,0.135981516,0.076381516
+Canada,CAN,North America,High income: OECD,CRD,North America,Americas,Northern America,1.65E+12,1.399162568,Aaa,0,0.0596,0
+Central African Republic,CAF,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,1949411659,21.30895686,#N/A,#N/A,#N/A,#N/A
+Chad,TCD,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,9871247732,1.832062452,#N/A,#N/A,#N/A,#N/A
+Chile,CHL,Latin America & Caribbean,High income: OECD,ROLAC,Latin America,Americas,South America,2.77E+11,3.32824377,A1,0.007940011,0.069366817,0.009766817
+China,CHN,East Asia & Pacific,Upper middle income,ROAP,East Asia & Pacific,Asia,Eastern Asia,1.22E+13,1.914570842,A1,0.007940011,0.069366817,0.009766817
+Colombia,COL,Latin America & Caribbean,Upper middle income,ROLAC,Latin America,Americas,South America,3.14E+11,4.346686807,Baa2,0.021478749,0.086020491,0.026420491
+Comoros,COM,Sub-Saharan Africa,Low income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,1068124330,-4.294873315,#N/A,#N/A,#N/A,#N/A
+Congo,COG,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,8701334800,2.470695866,Caa2,0.101591429,0.184565168,0.124965168
+Congo DR,COD,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,37642482562,1.420328017,B3,0.073394209,0.149880447,0.090280447
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Central America,57285984448,2.432128906,B1,0.050795714,0.122082584,0.062482584
+Côte d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,37353276059,1.138082304,Ba3,0.040616212,0.109561024,0.049961024
+Croatia,HRV,Europe & Central Asia,High income: nonOECD,CRD,Europe EU,Europe,Southern Europe,55213087271,0.299750691,Ba2,0.033897741,0.101296795,0.041696795
+Cuba,CUB,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Caribbean,96851000000,#DIV/0!,Caa2,0.101591429,0.184565168,0.124965168
+Cyprus,CYP,Europe & Central Asia,High income: nonOECD,CRD,Europe EU,Asia,Western Asia,22054225828,-1.00149369,Ba2,0.033897741,0.101296795,0.041696795
+Czech Republic,CZE,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Eastern Europe,2.16E+11,1.045137841,A1,0.007940011,0.069366817,0.009766817
+Denmark,DNK,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Northern Europe,3.25E+11,0.640451729,Aaa,0,0.0596,0
+Djibouti,DJI,Middle East & North Africa,Lower middle income,ROCEA,Middle East & North Africa,Africa,Eastern Africa,1844674435,1.301406369,#N/A,#N/A,#N/A,#N/A
+Dominica,DMA,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Caribbean,496727000,0.109761385,#N/A,#N/A,#N/A,#N/A
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Caribbean,75931656815,2.693224645,Ba3,0.040616212,0.109561024,0.049961024
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,South America,1.04E+11,2.48464848,B3,0.073394209,0.149880447,0.090280447
+Egypt,EGY,Middle East & North Africa,Lower middle income,ROMENA,Middle East & North Africa,Africa,Northern Africa,2.35E+11,14.6479637,B3,0.073394209,0.149880447,0.090280447
+El Salvador,SLV,Latin America & Caribbean,Lower middle income,ROLAC,Central America & Caribbean,Americas,Central America,24805439600,0.556806499,Caa1,0.084591661,0.163654163,0.104054163
+Equatorial Guinea,GNQ,Sub-Saharan Africa,High income: nonOECD,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,12293579173,2.218360072,#N/A,#N/A,#N/A,#N/A
+Eritrea,ERI,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,..,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Estonia,EST,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Northern Europe,25921079612,1.149597168,A1,0.007940011,0.069366817,0.009766817
+Ethiopia,ETH,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,80561496134,8.540929333,B1,0.050795714,0.122082584,0.062482584
+Fiji,FJI,East Asia & Pacific,Upper middle income,ROP,East Asia & Pacific,Oceania,Melanesia,5061202767,2.405207074,Ba3,0.040616212,0.109561024,0.049961024
+Finland,FIN,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Northern Europe,2.52E+11,0.684450615,Aa1,0.004478981,0.065109486,0.005509486
+France,FRA,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Western Europe,2.58E+12,0.524921263,Aa2,0.005598726,0.066486858,0.006886858
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,15013950984,1.740952629,Caa1,0.084591661,0.163654163,0.104054163
+Gambia,GMB,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,1489464788,6.743760869,0,0.073394209,0.149880447,0.090280447
+Georgia,GEO,Europe & Central Asia,Lower middle income,ROCCA,Caucasus & EU's Eastern Neighbourhood,Asia,Western Asia,15081338092,2.946115258,Ba2,0.033897741,0.101296795,0.041696795
+Germany,DEU,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Western Europe,3.68E+12,0.973444144,Aaa,0,0.0596,0
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,58996776238,14.82646682,B3,0.073394209,0.149880447,0.090280447
+Greece,GRC,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Southern Europe,2.00E+11,-0.734766482,B3,0.073394209,0.149880447,0.090280447
+Grenada,GRD,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Caribbean,1126882296,0.203159465,#N/A,#N/A,#N/A,#N/A
+Guatemala,GTM,Latin America & Caribbean,Lower middle income,ROLAC,Central America & Caribbean,Americas,Central America,75620095538,3.804686378,Ba1,0.02819722,0.094284721,0.034684721
+Guinea,GIN,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,10472514515,9.368111309,0,0.135387375,0.226136747,0.166536747
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,1346841897,0.80798821,0,0.084591661,0.163654163,0.104054163
+Guyana,GUY,Latin America & Caribbean,Lower middle income,ROLAC,Latin America,Americas,South America,3621046005,0.898562441,0,0.050795714,0.122082584,0.062482584
+Haiti,HTI,Latin America & Caribbean,Low income,ROLAC,Central America & Caribbean,Americas,Caribbean,8408150518,9.58859667,0,0.101591429,0.184565168,0.124965168
+Honduras,HND,Latin America & Caribbean,Lower middle income,ROLAC,Central America & Caribbean,Americas,Central America,22978532897,4.221590509,B1,0.050795714,0.122082584,0.062482584
+Hungary,HUN,Europe & Central Asia,Upper middle income,CRD,Europe EU,Europe,Eastern Europe,1.39E+11,0.837400203,Baa3,0.024837985,0.090152606,0.030552606
+Iceland,ISL,Europe & Central Asia,High income: OECD,CRD,Europe nonEU,Europe,Northern Europe,23909289979,2.201458569,A3,0.013538737,0.076253675,0.016653675
+India,IND,South Asia,Lower middle income,ROAP,South Asia,Asia,Southern Asia,2.60E+12,6.149716858,Baa2,0.021478749,0.086020491,0.026420491
+Indonesia,IDN,East Asia & Pacific,Lower middle income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,1.02E+12,5.301032613,Baa2,0.021478749,0.086020491,0.026420491
+Iran,IRN,Middle East & North Africa,Upper middle income,ROMENA,Middle East & North Africa,Asia,Southern Asia,4.54E+11,17.76500067,0,0.033897741,0.101296795,0.041696795
+Iraq,IRQ,Middle East & North Africa,Upper middle income,ROMENA,Middle East & North Africa,Asia,Western Asia,1.92E+11,1.243658917,Caa1,0.084591661,0.163654163,0.104054163
+Ireland,IRL,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Northern Europe,3.34E+11,0.150043201,A2,0.009568732,0.071370266,0.011770266
+Israel,ISR,Middle East & North Africa,High income: OECD,ROMENA,Middle East & North Africa,Asia,Western Asia,3.51E+11,0.224649438,A1,0.007940011,0.069366817,0.009766817
+Italy,ITA,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Southern Europe,1.93E+12,0.526469552,Baa3,0.024837985,0.090152606,0.030552606
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Caribbean,14781107822,5.607789491,B3,0.073394209,0.149880447,0.090280447
+Japan,JPN,East Asia & Pacific,High income: OECD,ROAP,East Asia & Pacific,Asia,Eastern Asia,4.87E+12,0.849691476,A1,0.007940011,0.069366817,0.009766817
+Jordan,JOR,Middle East & North Africa,Upper middle income,ROMENA,Middle East & North Africa,Asia,Western Asia,40068308451,1.878478489,B1,0.050795714,0.122082584,0.062482584
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,ROCCA,Central Asia,Asia,Central Asia,1.63E+11,8.254866359,Baa3,0.024837985,0.090152606,0.030552606
+Kenya,KEN,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,79263075749,6.696140656,B2,0.062094961,0.135981516,0.076381516
+Kiribati,KIR,East Asia & Pacific,Lower middle income,ROP,East Asia & Pacific,Oceania,Micronesia,185572501.5,0.395980623,#N/A,#N/A,#N/A,#N/A
+Korea DPR,PRK,East Asia & Pacific,Low income,ROAP,East Asia & Pacific,Asia,Eastern Asia,..,#DIV/0!,0,0.135387375,0.226136747,0.166536747
+Korea Republic of,KOR,East Asia & Pacific,High income: OECD,ROAP,East Asia & Pacific,Asia,Eastern Asia,1.53E+12,1.23968612,Aa2,0.005598726,0.066486858,0.006886858
+Kuwait,KWT,Middle East & North Africa,High income: nonOECD,ROMENA,Middle East & North Africa,Asia,Western Asia,1.20E+11,2.846631196,Aa2,0.005598726,0.066486858,0.006886858
+Kyrgyzstan,KGZ,Europe & Central Asia,Low income,ROCCA,Central Asia,Asia,Central Asia,7564738836,4.843093174,B2,0.062094961,0.135981516,0.076381516
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,16853087485,2.839995967,#N/A,#N/A,#N/A,#N/A
+Latvia,LVA,Europe & Central Asia,High income: nonOECD,CRD,Europe EU,Europe,Northern Europe,30264454642,0.767254912,A3,0.013538737,0.076253675,0.016653675
+Lebanon,LBN,Middle East & North Africa,Upper middle income,ROMENA,Middle East & North Africa,Asia,Western Asia,53576985687,1.292894217,B3,0.073394209,0.149880447,0.090280447
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,ROSA,Sub-Saharan Africa,Africa,Southern Africa,2578265358,5.073937818,#N/A,#N/A,#N/A,#N/A
+Liberia,LBR,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,3285455000,9.288199525,0,0.135387375,0.226136747,0.166536747
+Libya,LBY,Middle East & North Africa,Upper middle income,ROMENA,Middle East & North Africa,Africa,Northern Africa,38107728083,2.605818027,0,0.050795714,0.122082584,0.062482584
+Liechtenstein,LIE,Europe & Central Asia,High income: nonOECD,CRD,Europe nonEU,Europe,Western Europe,..,#DIV/0!,Aaa,0,0.0596,0
+Lithuania,LTU,Europe & Central Asia,High income: nonOECD,CRD,Europe EU,Europe,Northern Europe,47168303744,0.979128273,A3,0.013538737,0.076253675,0.016653675
+Luxembourg,LUX,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Western Europe,62404461275,0.971791941,Aaa,0,0.0596,0
+The former Yugoslav Republic of Macedonia,MKD,Europe & Central Asia,Upper middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Southern Europe,11279509014,0.662974697,Ba3,0.040616212,0.109561024,0.049961024
+Madagascar,MDG,Sub-Saharan Africa,Low income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,11499803807,6.850010961,0,0.073394209,0.149880447,0.090280447
+Malawi,MWI,Sub-Saharan Africa,Low income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,6303292264,21.23945059,0,0.084591661,0.163654163,0.104054163
+Malaysia,MYS,East Asia & Pacific,Upper middle income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,3.15E+11,2.662832075,A3,0.013538737,0.076253675,0.016653675
+Maldives,MDV,South Asia,Upper middle income,ROAP,South Asia,Asia,Southern Asia,4865546027,2.016962131,B2,0.062094961,0.135981516,0.076381516
+Mali,MLI,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,15334336144,0.337595825,0,0.084591661,0.163654163,0.104054163
+Malta,MLT,Middle East & North Africa,High income: nonOECD,CRD,Europe EU,Europe,Southern Europe,12518134319,0.919639271,A3,0.013538737,0.076253675,0.016653675
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,ROP,East Asia & Pacific,Oceania,Micronesia,204173430.1,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,5024708656,2.928836831,#N/A,#N/A,#N/A,#N/A
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,13266427697,2.538441906,Baa1,0.018017718,0.081763161,0.022163161
+Mexico,MEX,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Central America,1.15E+12,3.881762503,A3,0.013538737,0.076253675,0.016653675
+Micronesia,FSM,East Asia & Pacific,Lower middle income,ROP,East Asia & Pacific,Oceania,Micronesia,336427500,0.266757091,#N/A,#N/A,#N/A,#N/A
+Moldova Republic of,MDA,Europe & Central Asia,Lower middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Eastern Europe,8128493432,6.458488761,B3,0.073394209,0.149880447,0.090280447
+Mongolia,MNG,East Asia & Pacific,Lower middle income,ROAP,East Asia & Pacific,Asia,Eastern Asia,11433635876,6.879900619,B3,0.073394209,0.149880447,0.090280447
+Montenegro,MNE,Europe & Central Asia,Upper middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Southern Europe,4844592067,1.030584236,B1,0.050795714,0.122082584,0.062482584
+Morocco,MAR,Middle East & North Africa,Lower middle income,ROMENA,Middle East & North Africa,Africa,Northern Africa,1.10E+11,1.252614506,Ba1,0.02819722,0.094284721,0.034684721
+Mozambique,MOZ,Sub-Saharan Africa,Low income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,12645508634,#DIV/0!,Caa3,0.112788881,0.198338884,0.138738884
+Myanmar,MMR,East Asia & Pacific,Low income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,67068745521,6.310547228,0,0.084591661,0.163654163,0.104054163
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,ROSA,Sub-Saharan Africa,Africa,Southern Africa,13253698015,5.443566175,Ba1,0.02819722,0.094284721,0.034684721
+Nauru,NRU,East Asia & Pacific,,ROP,East Asia & Pacific,Oceania,Micronesia,113884908.4,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Nepal,NPL,South Asia,Low income,ROAP,South Asia,Asia,Southern Asia,24880266905,7.458499643,#N/A,#N/A,#N/A,#N/A
+Netherlands,NLD,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Western Europe,8.26E+11,1.156261427,Aaa,0,0.0596,0
+New Zealand,NZL,East Asia & Pacific,High income: OECD,ROAP,East Asia & Pacific,Oceania,Australia and New Zealand,2.06E+11,1.030332552,Aaa,0,0.0596,0
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,ROLAC,Central America & Caribbean,Americas,Central America,13814261536,4.908532255,B2,0.062094961,0.135981516,0.076381516
+Niger,NER,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,8119710126,0.9849997,0,0.135387375,0.226136747,0.166536747
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,3.76E+11,11.54931617,B2,0.062094961,0.135981516,0.076381516
+Norway,NOR,Europe & Central Asia,High income: OECD,CRD,Europe nonEU,Europe,Northern Europe,3.99E+11,2.351685264,Aaa,0,0.0596,0
+Oman,OMN,Middle East & North Africa,High income: nonOECD,ROMENA,Middle East & North Africa,Asia,Western Asia,72642652796,0.967906065,Baa3,0.024837985,0.090152606,0.030552606
+Pakistan,PAK,South Asia,Lower middle income,ROMENA,South Asia,Asia,Southern Asia,3.05E+11,5.052272233,B3,0.073394209,0.149880447,0.090280447
+Palau,PLW,East Asia & Pacific,Upper middle income,ROP,East Asia & Pacific,Oceania,Micronesia,289823500,1.746750691,#N/A,#N/A,#N/A,#N/A
+Palestine,PSE,Middle East & North Africa,Lower middle income,ROMENA,Middle East & North Africa,Asia,Western Asia,14498100000,0.976492045,#N/A,#N/A,#N/A,#N/A
+Panama,PAN,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Central America,62283756584,1.681133416,Baa2,0.021478749,0.086020491,0.026420491
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,ROAP,East Asia & Pacific,Oceania,Melanesia,20536314601,5.654833388,B2,0.062094961,0.135981516,0.076381516
+Paraguay,PRY,Latin America & Caribbean,Lower middle income,ROLAC,Latin America,Americas,South America,39667400816,3.706197605,Ba1,0.02819722,0.094284721,0.034684721
+Peru,PER,Latin America & Caribbean,Upper middle income,ROLAC,Latin America,Americas,South America,2.11E+11,3.199184003,A3,0.013538737,0.076253675,0.016653675
+Philippines,PHL,East Asia & Pacific,Lower middle income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,3.14E+11,2.192318033,Baa2,0.021478749,0.086020491,0.026420491
+Poland,POL,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Eastern Europe,5.26E+11,0.31656925,A2,0.009568732,0.071370266,0.011770266
+Portugal,PRT,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Southern Europe,2.18E+11,0.492042623,Baa3,0.024837985,0.090152606,0.030552606
+Qatar,QAT,Middle East & North Africa,High income: nonOECD,ROMENA,Middle East & North Africa,Asia,Western Asia,1.67E+11,2.291488971,Aa3,0.006820266,0.067989445,0.008389445
+Romania,ROU,Europe & Central Asia,Upper middle income,CRD,Europe EU,Europe,Eastern Europe,2.12E+11,0.850618068,Baa3,0.024837985,0.090152606,0.030552606
+Russian Federation,RUS,Europe & Central Asia,High income: nonOECD,CRD,Russia Federation,Europe,Eastern Europe,1.58E+12,8.167000402,Ba1,0.02819722,0.094284721,0.034684721
+Rwanda,RWA,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,9135454442,5.252228358,B2,0.062094961,0.135981516,0.076381516
+Saint Kitts and Nevis,KNA,Latin America & Caribbean,High income: nonOECD,ROLAC,Central America & Caribbean,Americas,Caribbean,992007403.1,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Saint Lucia,LCA,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Caribbean,1737504296,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Saint Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,ROLAC,Central America & Caribbean,Americas,Caribbean,785222509.1,0.253813851,B3,0.073394209,0.149880447,0.090280447
+Samoa,WSM,East Asia & Pacific,Lower middle income,ROP,East Asia & Pacific,Oceania,Polynesia,840927996.6,0.774035117,#N/A,#N/A,#N/A,#N/A
+Sao Tome and Principe,STP,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Middle Africa,392570292.5,6.294322904,#N/A,#N/A,#N/A,#N/A
+Saudi Arabia,SAU,Middle East & North Africa,High income: nonOECD,ROMENA,Middle East & North Africa,Asia,Western Asia,6.87E+11,1.638842761,A1,0.007940011,0.069366817,0.009766817
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,21070225735,0.382128087,Ba3,0.040616212,0.109561024,0.049961024
+Serbia,SRB,Europe & Central Asia,Upper middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Southern Europe,41431648801,3.08448925,Ba3,0.040616212,0.109561024,0.049961024
+Seychelles,SYC,Sub-Saharan Africa,Upper middle income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,1497959569,2.321606195,#N/A,#N/A,#N/A,#N/A
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,3775047334,9.192101551,0,0.135387375,0.226136747,0.166536747
+Singapore,SGP,East Asia & Pacific,High income: nonOECD,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,3.24E+11,0.580973951,Aaa,0,0.0596,0
+Slovakia,SVK,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Eastern Europe,95769031980,0.358204854,A2,0.009568732,0.071370266,0.011770266
+Slovenia,SVN,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Southern Europe,48769655479,0.563420058,Baa1,0.018017718,0.081763161,0.022163161
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,ROP,East Asia & Pacific,Oceania,Melanesia,1303453622,2.196793873,B3,0.073394209,0.149880447,0.090280447
+Somalia,SOM,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,7052000000,#DIV/0!,0,0.135387375,0.226136747,0.166536747
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,ROSA,Sub-Saharan Africa,Africa,Southern Africa,3.49E+11,5.639463842,Baa3,0.024837985,0.090152606,0.030552606
+South Sudan,SSD,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,..,124.4260281,#N/A,#N/A,#N/A,#N/A
+Spain,ESP,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Southern Europe,1.31E+12,0.50212525,Baa1,0.018017718,0.081763161,0.022163161
+Sri Lanka,LKA,South Asia,Lower middle income,ROAP,South Asia,Asia,Southern Asia,87357205923,5.103769321,B1,0.050795714,0.122082584,0.062482584
+Sudan,SDN,Sub-Saharan Africa,Lower middle income,ROCEA,Sub-Saharan Africa,Africa,Northern Africa,1.17E+11,30.11241418,0,0.18,0.281013662,0.221413662
+Suriname,SUR,Latin America & Caribbean,Upper middle income,ROLAC,Latin America,Americas,South America,2995827901,17.93568384,B2,0.062094961,0.135981516,0.076381516
+Swaziland,SWZ,Sub-Saharan Africa,Lower middle income,ROSA,Sub-Saharan Africa,Africa,Southern Africa,4433664364,6.064454531,B2,0.062094961,0.135981516,0.076381516
+Sweden,SWE,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Northern Europe,5.38E+11,0.501610416,Aaa,0,0.0596,0
+Switzerland,CHE,Europe & Central Asia,High income: OECD,CRD,Europe nonEU,Europe,Western Europe,6.79E+11,-0.255049995,Aaa,0,0.0596,0
+Syrian Arab Republic,SYR,Middle East & North Africa,Lower middle income,ROMENA,Middle East & North Africa,Asia,Western Asia,..,#DIV/0!,0,0.135387375,0.226136747,0.166536747
+Tajikistan,TJK,Europe & Central Asia,Low income,ROCCA,Central Asia,Asia,Central Asia,7146449583,5.708303606,B3,0.073394209,0.149880447,0.090280447
+Tanzania,TZA,Sub-Saharan Africa,Low income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,52090321003,6.01679797,B1,0.050795714,0.122082584,0.062482584
+Thailand,THA,East Asia & Pacific,Upper middle income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,4.55E+11,0.806676928,Baa1,0.018017718,0.081763161,0.022163161
+Timor-Leste,TLS,East Asia & Pacific,Lower middle income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,2954621000,2.316531266,#N/A,#N/A,#N/A,#N/A
+Togo,TGO,Sub-Saharan Africa,Low income,ROWCA,Sub-Saharan Africa,Africa,Western Africa,4757776485,0.762686999,0,0.084591661,0.163654163,0.104054163
+Tonga,TON,East Asia & Pacific,Upper middle income,ROP,East Asia & Pacific,Oceania,Polynesia,427659795.3,2.450581591,#N/A,#N/A,#N/A,#N/A
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income: nonOECD,ROLAC,Central America & Caribbean,Americas,Caribbean,22079017627,4.099300672,Ba1,0.02819722,0.094284721,0.034684721
+Tunisia,TUN,Middle East & North Africa,Upper middle income,ROMENA,Middle East & North Africa,Africa,Northern Africa,39952095561,4.926749949,B2,0.062094961,0.135981516,0.076381516
+Turkey,TUR,Europe & Central Asia,Upper middle income,ROMENA,Caucasus & EU's Eastern Neighbourhood,Asia,Western Asia,8.52E+11,8.587592381,Ba3,0.040616212,0.109561024,0.049961024
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,ROCCA,Central Asia,Asia,Central Asia,37926285714,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Tuvalu,TUV,East Asia & Pacific,Upper middle income,ROP,East Asia & Pacific,Oceania,Polynesia,39731317.3,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Uganda,UGA,Sub-Saharan Africa,Low income,ROCEA,Sub-Saharan Africa,Africa,Eastern Africa,25995031850,4.897338723,B2,0.062094961,0.135981516,0.076381516
+Ukraine,UKR,Europe & Central Asia,Lower middle income,CRD,Caucasus & EU's Eastern Neighbourhood,Europe,Eastern Europe,1.12E+11,17.77676105,Caa1,0.084591661,0.163654163,0.104054163
+United Arab Emirates,ARE,Middle East & North Africa,High income: nonOECD,ROMENA,Middle East & North Africa,Asia,Western Asia,3.83E+11,2.220430742,Aa2,0.005598726,0.066486858,0.006886858
+United Kingdom,GBR,Europe & Central Asia,High income: OECD,CRD,Europe EU,Europe,Northern Europe,2.62E+12,1.535401363,Aa2,0.005598726,0.066486858,0.006886858
+United States of America,USA,North America,High income: OECD,CRD,North America,Americas,Northern America,1.94E+13,1.319475196,Aaa,0,0.0596,0
+Uruguay,URY,Latin America & Caribbean,High income: nonOECD,ROLAC,Latin America,Americas,South America,56156972158,8.395253109,Baa2,0.021478749,0.086020491,0.026420491
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,ROCCA,Central Asia,Asia,Central Asia,49677172714,#DIV/0!,#N/A,#N/A,#N/A,#N/A
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,ROP,East Asia & Pacific,Oceania,Melanesia,862879789,1.395783849,#N/A,#N/A,#N/A,#N/A
+Venezuela,VEN,Latin America & Caribbean,Upper middle income,ROLAC,Latin America,Americas,South America,..,119.8736744,C,0.18,0.281013662,0.221413662
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,ROAP,East Asia & Pacific,Asia,South-Eastern Asia,2.24E+11,3.788940473,Ba3,0.040616212,0.109561024,0.049961024
+Yemen,YEM,Middle East & North Africa,Lower middle income,ROMENA,Middle East & North Africa,Asia,Western Asia,31267675216,9.536583993,0,0.18,0.281013662,0.221413662
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,25868142073,9.868437221,Caa1,0.084591661,0.163654163,0.104054163
+Zimbabwe,ZWE,Sub-Saharan Africa,Low income,ROSA,Sub-Saharan Africa,Africa,Eastern Africa,22040902300,-0.32949951,0,0.101591429,0.184565168,0.124965168
